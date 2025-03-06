@@ -1,6 +1,4 @@
-# Modelado de Base Datos
-UPTVal
-Sección IN 332
-Grupo:
-José Brett - C.I: 30.336.423
-Samuel Brito - C.I: 29.530.516
+# UPTVal - Sección IN 332
+**Grupo**:  
+José Brett - C.I: 30.336.423  
+Samuel Brito - C.I: 29.530.516  
